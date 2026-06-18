@@ -7,7 +7,7 @@
 CS Student at UCLan Cyprus · Building in public · Currently interning 🚀
 
 ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-58A6FF?style=flat-square&labelColor=0d1117&color=58A6FF)
-![4 commits/day](https://img.shields.io/badge/2%20commits%2Fday-3FB950?style=flat-square&labelColor=0d1117&color=3FB950)
+![2 commits/day](https://img.shields.io/badge/2%20commits%2Fday-3FB950?style=flat-square&labelColor=0d1117&color=3FB950)
 ![8 languages & counting](https://img.shields.io/badge/8%20languages%20%26%20counting-BC8CFF?style=flat-square&labelColor=0d1117&color=BC8CFF)
 
 </div>
@@ -60,7 +60,7 @@ CS Student at UCLan Cyprus · Building in public · Currently interning 🚀
 | Project | Description | Stack | Link |
 |---|---|---|---|
 | 🎮 **Game Explorer** | Browse & filter 500k+ games via RAWG API. Full React app with routing, animations, mobile responsive. | React · Vite · REST API | [Live ↗](https://game-explorer-git-main-xtekkis-dev.vercel.app) |
-| 🏁 **Makeshift Racers** | Real-time multiplayer browser racing game. Share a link, race instantly <img width="1897" height="936" alt="image" src="https://github.com/user-attachments/assets/33ea9795-2b48-4730-a6e2-70dd24427899" /> no account needed. | JS · Node.js · WebSockets | [Repo ↗](https://github.com/xtekkis/makeshift-racers) |
+| 🏁 **Makeshift Racers** | Real-time multiplayer browser racing game. Share a link, race instantly - no account needed. | JS · Node.js · WebSockets | [Repo ↗](https://github.com/xtekkis/makeshift-racers) |
 | 🔗 **URL Shortener** | Backend service with click tracking, 24h expiry, web UI, and Docker support. | Go · Docker | [Repo ↗](https://github.com/xtekkis/url-shortener) |
 | 📋 **Habit Tracker** | Flask web app - add habits, log streaks, view calendar, export CSV. | Python · Flask · SQLite | [Repo ↗](https://github.com/xtekkis/habit-tracker) |
 | ⌨️ **Typing Speed Test** | Live WPM test with accuracy tracking. My first ever project. | HTML · CSS · JS | [Repo ↗](https://github.com/xtekkis/typing-speed-test) |
