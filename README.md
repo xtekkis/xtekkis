@@ -1,13 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+building+real+projects%2C+not+just+tutorials.;8+languages.+More+on+the+way.;Shipping+2+commits+a+day%2C+every+day.;Games%2C+tools%2C+bots+%E2%80%94+whatever%27s+interesting+next.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+student+building+real+projects%2C+not+just+tutorials.;8+languages.+More+on+the+way.;Shipping+2%2B+commits+a+day%2C+every+day.;Games%2C+tools%2C+bots+%E2%80%94+whatever%27s+interesting+next.)](https://git.io/typing-svg)
 
 # Hey, I'm Xenios 👋
 
 CS Student at UCLan Cyprus · Building in public · Currently interning 🚀
 
 ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-58A6FF?style=flat-square&labelColor=0d1117&color=58A6FF)
-![2 commits/day](https://img.shields.io/badge/2%20commits%2Fday-3FB950?style=flat-square&labelColor=0d1117&color=3FB950)
+![2+ commits/day](https://img.shields.io/badge/2%20commits%2Fday-3FB950?style=flat-square&labelColor=0d1117&color=3FB950)
 ![8 languages & counting](https://img.shields.io/badge/8%20languages%20%26%20counting-BC8CFF?style=flat-square&labelColor=0d1117&color=BC8CFF)
 
 </div>
