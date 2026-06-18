@@ -7,7 +7,7 @@
 CS Student at UCLan Cyprus · Building in public · Currently interning 🚀
 
 ![Open to opportunities](https://img.shields.io/badge/Open%20to%20opportunities-58A6FF?style=flat-square&labelColor=0d1117&color=58A6FF)
-![2+ commits/day](https://img.shields.io/badge/2%20commits%2Fday-3FB950?style=flat-square&labelColor=0d1117&color=3FB950)
+![2+ commits/day](https://img.shields.io/badge/2%2B+commits%2Fday-3FB950?style=flat-square&labelColor=0d1117&color=3FB950)
 ![8 languages & counting](https://img.shields.io/badge/8%20languages%20%26%20counting-BC8CFF?style=flat-square&labelColor=0d1117&color=BC8CFF)
 
 </div>
