@@ -59,6 +59,7 @@ CS Student at UCLan Cyprus · Building in public · Currently interning 🚀
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
+| ✈️ **Skymate** | AI-powered flight assistant. Search one-way & round trips and chat with an AI travel assistant to plan your trip. | React · TypeScript · Node.js | [Repo ↗](https://github.com/xtekkis/skymate) |
 | 🎮 **Game Explorer** | Browse & filter 500k+ games via RAWG API. Full React app with routing, animations, mobile responsive. | React · Vite · REST API | [Live ↗](https://game-explorer-git-main-xtekkis-dev.vercel.app) |
 | 🏁 **Makeshift Racers** | Real-time multiplayer browser racing game. Share a link, race instantly - no account needed. | JS · Node.js · WebSockets | [Repo ↗](https://github.com/xtekkis/makeshift-racers) |
 | 🔗 **URL Shortener** | Backend service with click tracking, 24h expiry, web UI, and Docker support. | Go · Docker | [Repo ↗](https://github.com/xtekkis/url-shortener) |
